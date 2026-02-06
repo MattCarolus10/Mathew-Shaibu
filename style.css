@@ -1,0 +1,55 @@
+h1 {
+  font-family: ghotic;
+  background: red;
+  color: white;
+  text-align: center;
+}
+
+p{
+  font-family: nunito;
+  color: white;
+  text-align: left
+}
+
+#things-to-do{
+  color: yellow;
+  font-family: ghotic;
+  text-align: center;
+  background: green;
+}
+#overall{
+  color: lightgreen;
+  font-family: ghotic;
+  background: blue;
+}
+
+h2{
+  background: black;
+  color: white;
+  text-align: center;
+  font-family: ghotic
+ }
+
+.places{
+  color: orange;
+  font-family: Copperplate;
+}
+
+ol{
+  text-align: left;
+}
+
+
+
+body {
+  font-family: system-ui;
+  background: black;
+  color: blue;
+  text-align: center;
+}
+
+.center-me{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
